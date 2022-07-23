@@ -1,6 +1,6 @@
 # Resolucion de un problema de Procesos Estocásticos mediante un script en Python
 
-##**ENUNCIADO**
+## **ENUNCIADO**
 
 El proceso de contacto es uno de los modelos arquetipos del no equilibrio. 
 Este modelo representa una dinámica muy sencilla de creacción y destrucción de partículas en una red.
@@ -18,11 +18,11 @@ $$ A+ \emptyset \overset \lambda \rightarrow 2A \quad (Activación)$$
 $$ A \overset \mu \rightarrow \emptyset \quad (Desactivación)$$
 $$\emptyset \overset h \rightarrow A $$
 
-###**Apartado 1**
+### **Apartado 1**
 
 Deriva la ecuación Maestra con estas tasas.
 
-###**Apartado 2**
+### **Apartado 2**
 
 Con un desarrollo en un $1/N$ deriva la ecuación de Fokker Planck. Escribe también la
 ecuación de Langevin equivalente.
