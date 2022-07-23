@@ -8,12 +8,12 @@ en el estudio de epidemias.
 En este ejercicio vamos a analizar en detalle su formulación de campo medio, o sea sin infuencia del espacio. 
 
 Llamamos un nodo de la red "activo" si está ocupado por una partícula, un nodo puede estar ocupado por maximo una partícula.
-Nuestra variable es $$ \rho = activos / N $$
-N donde N es el numero total de sitios de la red. Si un nodo
-activo de la red A tiene al lado un nodo vaco puede crear una partcula con una tasa  en
-este ultimo (activacion). Tambien un nodo activo A puede desactivarse con la muerte de una
-partcula con un tasa . Finalmente, un nodo inactivo puede convertirse espontaneamente
-en activo con tasa h (creacion de un partcula):
+Nuestra variable es $\rho = activos /N$ donde N es el número total de sitios de la red. Si un nodo
+activo de la red A tiene al lado un nodo vacío puede crear una partícula con una tasa $\lambda$ en
+este último (activación). También un nodo activo A puede desactivarse con la muerte de una
+partícula con un tasa $\mu$. Finalmente, un nodo inactivo puede convertirse espontáneamente
+en activo con tasa h (creación de un partícula):
+$$ A+ \void \rightarrow$$
 A + ; 􀀀
 ! 2A (activacion)
 A
