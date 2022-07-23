@@ -14,13 +14,8 @@ este último (activación). También un nodo activo A puede desactivarse con la 
 partícula con un tasa $\mu$. Finalmente, un nodo inactivo puede convertirse espontáneamente
 en activo con tasa h (creación de un partícula):
 $$ A+ \emptyset \overset \lambda \rightarrow 2A \quad (Activación)$$
-A + ; 􀀀
-! 2A (activacion)
-A
-􀀀
-! ; (desactivacion)
-; h􀀀
-! A (1)
+$$ A \overset \mu \rightarrow \emptyset \quad (Desactivación)$$
+$$\emptyset \overset h \rightarrow A $$
 2.1
 Deriva la ecuacion Maestra con estas tasas.
 2.2
