@@ -13,7 +13,7 @@ activo de la red A tiene al lado un nodo vacío puede crear una partícula con u
 este último (activación). También un nodo activo A puede desactivarse con la muerte de una
 partícula con un tasa $\mu$. Finalmente, un nodo inactivo puede convertirse espontáneamente
 en activo con tasa h (creación de un partícula):
-$$ A+ \emptyset \lambda \overset\rightarrow$$
+$$ A+ \emptyset \overset \rightarrow \lambda $$
 A + ; 􀀀
 ! 2A (activacion)
 A
