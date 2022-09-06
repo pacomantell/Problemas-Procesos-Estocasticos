@@ -1,4 +1,4 @@
-# Resolucion de un problema de Procesos Estocásticos mediante un script en Python
+# Problema Procesos Estocásticos
 
 ## **ENUNCIADO**
 
