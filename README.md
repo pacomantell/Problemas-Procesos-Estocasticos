@@ -26,3 +26,7 @@ Deriva la ecuación Maestra con estas tasas.
 
 Con un desarrollo en un $1/N$ deriva la ecuación de Fokker Planck. Escribe también la
 ecuación de Langevin equivalente.
+
+## Librerías.
+- Numpy.
+- Matplotlib.
